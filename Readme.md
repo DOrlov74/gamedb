@@ -17,7 +17,7 @@ Application implements Repository Patern in order to separate responsibilities.
 
 ## Published
 
-The site is published at https://webappext.herokuapp.com/
+The site is published at https://gamedb-denis.herokuapp.com/
 
 ## REST API
 
